@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there I'm Edson 👨‍💻</h3>
+<h3 align="center"> Hi there 👋  I'm Edson Junior 👨‍💻</h3>
 <hr>
 <p>
 I'm a PHP developer, graduated in Information System, postgraduate degree in Management and development of information systems. I like to hone my knowledge and my skills, and I also like to exchange experiences and knowledge with others peoples.
